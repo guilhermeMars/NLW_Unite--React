@@ -1,6 +1,12 @@
 # NLW Unite
 Evento feito com a Rocketseat em uma semana de aprendizado.
 Carga horária de 5 horas, dividias em 3 aulas liberadas durante a semana
+## Tecnologias
+- React.js
+- Typescript
+- Tailwind
+- Vite
+- Faker.js
 ## Certificado
 [Link do Certificado oficial](https://app.rocketseat.com.br/certificates/3533103f-baec-4060-8355-e68a015ee2af)
 ![Certificado](https://img001.prntscr.com/file/img001/w1ZOs9cPSiGMsJ06qLujCQ.png)
